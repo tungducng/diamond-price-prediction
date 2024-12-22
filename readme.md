@@ -1,6 +1,4 @@
-# Diamond Price Prediction Web Application
-
-## read the setup.MD to Setup for Diamond Price Prediction Web Application
+# read the setup.MD to setup for Diamond Price Prediction Web Application
 
 This web application is designed to predict the price of diamonds using machine learning models. The app uses Flask as the backend framework and allows users to input various diamond attributes (such as carat, cut, color, clarity, etc.) to receive price predictions based on different machine learning models.
 
